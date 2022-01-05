@@ -19,7 +19,7 @@ How old is the patient.
 07 - Neighbourhood
 Where the appointment takes place.
 08 - Scholarship
-True of False . Observation, this is a broad topic, consider reading this article https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia
+True of False 
 09 - Hipertension
 True or False
 10 - Diabetes
