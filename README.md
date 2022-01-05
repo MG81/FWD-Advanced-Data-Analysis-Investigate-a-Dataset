@@ -35,7 +35,7 @@ True or False.
 
 # Questions:
 1.What is the effect of Scholership on show up?
-2.What is the effect of SMS received on show up?
+  2.What is the effect of SMS received on show up?
 
 # Conclusions
 It has been noticed that the welfare programe and sms received has a negative effect on the show up
